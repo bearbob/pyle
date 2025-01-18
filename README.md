@@ -29,7 +29,7 @@ The self-print set includes:
 - 4 demon cards
 
 You will also need (not included):
-- Two 6-sided dice in different colors (we recommend 10 red and 10 green dice).
+- At leas two 6-sided dice in different colors (we recommend 10 red and 10 green dice).
 
 ---
 
@@ -81,12 +81,6 @@ Pyle is released under the **CC-BY-NC-SA 4.0 License**. You are free to share, r
 ## Acknowledgments
 
 Special thanks to everyone who contributed to the development and playtesting of Pyle. Your feedback and support have been invaluable.
-
----
-
-## Contact
-
-For questions, suggestions, or to share your experiences with Pyle, please reach out to us through GitHub or [email@example.com](mailto:email@example.com).
 
 ---
 
