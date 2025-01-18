@@ -29,7 +29,7 @@ The self-print set includes:
 - 4 demon cards
 
 You will also need (not included):
-- At leas two 6-sided dice in different colors (we recommend 10 red and 10 green dice).
+- At least two 6-sided dice in different colors (we recommend 10 red and 10 green dice).
 
 ---
 
