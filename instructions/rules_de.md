@@ -199,15 +199,15 @@ Folgende Personen können getroffen werden:
 | --- | --- | --- |
 | ![](../self_print_files/event_01_hellseher.png) |Hellseher | Decke ein beliebiges Feld auf dem Brett auf, ohne es zu aktivieren |
 | ![](../self_print_files/event_05_schatzjaeger.png) | Schatzjäger | Erhalte ein Artefakt ohne Geister zu opfern |
-| ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXf7DjJE8Mg0AhuxjIXsLpE92rBrwuFbTsYT1iWoJFELTKfdNkV-hwaFSwWOPA_ZCIL7dN64WhIgRPltaYtph534XknoN2W1LqFASYAUbS7UjJhP-e0P5Hon_nFMApU2MgWFdN0Wtw?key=bbjb60B8My39N_Yd5dUmZ4km) | Exorzist | Entferne einen beliebigen aufgedeckten Geist vom Brett. Lege dafür ein neues verdecktes Token ab |
-| ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeImc9umH_os7eyIKEXz3PEpIA30VSf3ojxI6rPZbBsRpZQzAuIYFBB1zxABjAAs-N8Qg8wm3Bx1Du6YbiJWjafYJTQLMo_tAXy9Vl_-sPfrRscrzEOlYsEPhnn1xj2hNiC9S-BDA?key=bbjb60B8My39N_Yd5dUmZ4km) | Hexe | Verfluche einen anderen Spieler. Beim nächsten Kampf dieses Spielers befindet sich ein weiterer roter Stein im Beutel |
-| ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeMbowKoVrOLv_wkyvF874N-5-D19n-Px2T6gZX80843MhDZuMo450jgxMaX36jHhKI_ksz-j1MnKgrClg12qdc_aNe9ouo0tjKfQOadFmGUNPuqBlvIS32tnrSgK-R6Jkp7wXnqQ?key=bbjb60B8My39N_Yd5dUmZ4km) | Priesterin | Leiste einem anderen Spieler Beistand. Beim nächsten Kampf des Spielers befindet sich ein weiterer grüner Stein im Beutel |
-| ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcbUxL-k1BK3PgJIEPi6MtoVOsh4sQyBJPknY9O8y4C0sAZdmbX8cotKj3jpG_oraLAEPzTNkb5HrGLyi0H7ySSn_0VImbloMyZ2ZeqYBlUx-aglHNWZWRJeGcYvvkAGLvAdz0ktw?key=bbjb60B8My39N_Yd5dUmZ4km) | Händler | Tausche einen aktiven Geist mit einem aktiven Geist eines anderen Spielers. Der andere Spieler kann diesen Handel nicht ablehnen |
-| ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdu0UnT2aCWyfuFDAzdzig_QbT7XeD_H9TDRgAKVEIqloebNPy0ngz-6WDaeCIX_80Qou_3js14NpyoroYsi1R3UG3s64wQQCepF2zfq0xNIf_C5clZwVb-yRGVZvrGEQMyBUs7uw?key=bbjb60B8My39N_Yd5dUmZ4km) |Grabräuber | Tausche einen Geist von deinem Pyle mit einem deiner aktiven Geister |
-| ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcKmGPm6LFBsnlwkHKbDvIgzz-nFs_67f1-IhXYhHKYD32AGpeHAXuoLpDCvI77Ch8_VAU8h6Ig0imTLAAfNr9E70ZzjVSoKrQLV6SdZah20Rb9CeDlmgGzSMtgjR0Wlkpt1a7G?key=bbjb60B8My39N_Yd5dUmZ4km) |Reisende | In deinem nächsten Zug kannst du bis zu 2 Felder weiter laufen |
-| ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdn034S28veClEjmAvnC4mDciiv6yFFy2YpDI4HPMsPlD6fUStOYOmniJHGvL3RR6PZxYDFJAP35EQQRETg615HC-z_7XU0Gpf9iJL0XmddDCLY0N8OzHGb2k6XwATctxf0pold?key=bbjb60B8My39N_Yd5dUmZ4km) | Inquisitor | Opfere einen aktiven Geist und zerstöre den Segen eines Spielers deiner Wahl |
-| ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdhZCHop84dNELZLXcGgp10JCpuTUoiWThnxt8Uou8YzJjNl5H9cG6pn-1XAqx7QpgivOYmhytiRuhe33iRmng971DWq6Wn02fh2WobiIbFYHNgwW390BkZel8dWxGENxIX2oIPfA?key=bbjb60B8My39N_Yd5dUmZ4km) | Kriegsfürstin | Lege einen Tempel in Trümmer. In den nächsten 5 Runden kann niemand den Tempel betreten |
-| ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcaPDJW2-j76qFmL3tyts7Ot5d1_q8BkWoNNeZ952HckI0dplv-ZCACk5g6Mc3_KtvFa31a6tnKn9VazXY5ENaWg6eeOVWVRR69nznjCmiV9sITymdA54DnSvZjR1T3KCa_9Ap0fA?key=bbjb60B8My39N_Yd5dUmZ4km) | Dieb | Nimm ein Siegel einer anderen Spielerin |
+| ![](../self_print_files/event_13_exorzist.png) | Exorzist | Entferne einen beliebigen aufgedeckten Geist vom Brett. Lege dafür ein neues verdecktes Token ab |
+| ![](../self_print_files/event_11_hexe.png) | Hexe | Verfluche einen anderen Spieler. Beim nächsten Kampf dieses Spielers befindet sich ein weiterer roter Stein im Beutel |
+| ![](../self_print_files/event_09_priesterin.png) | Priesterin | Leiste einem anderen Spieler Beistand. Beim nächsten Kampf des Spielers befindet sich ein weiterer grüner Stein im Beutel |
+| ![](../self_print_files/event_19_haendler.png) | Händler | Tausche einen aktiven Geist mit einem aktiven Geist eines anderen Spielers. Der andere Spieler kann diesen Handel nicht ablehnen |
+| ![](../self_print_files/event_21_grabraeuber.png) |Grabräuber | Tausche einen Geist von deinem Pyle mit einem deiner aktiven Geister |
+| ![](../self_print_files/event_23_reisender.png) |Reisende | In deinem nächsten Zug kannst du bis zu 2 Felder weiter laufen |
+| ![](../self_print_files/event_17_inquisitor.png) | Inquisitor | Opfere einen aktiven Geist und zerstöre den Segen eines Spielers deiner Wahl |
+| ![](../self_print_files/event_15_kriegsfuerst.png) | Kriegsfürstin | Lege einen Tempel in Trümmer. In den nächsten 5 Runden kann niemand den Tempel betreten |
+| ![](../self_print_files/event_25_dieb.png) | Dieb | Nimm ein Siegel einer anderen Spielerin |
 
 # Danksagungen
 
